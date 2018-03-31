@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="https://tipe.io/" target="_blank">
     <img  alt="Tipe" src="https://user-images.githubusercontent.com/1016365/30999155-30430eb8-a488-11e7-850e-a7c38dad77c1.png" class="img-responsive">
@@ -507,7 +506,6 @@ ___
 
 # License
  [MIT](/LICENSE)
-=======
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
@@ -553,4 +551,3 @@ Use these steps to clone from SourceTree, our client for using the repository co
 4. Open the directory you just created to see your repository’s files.
 
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
->>>>>>> 18ca9592c6b556b12a801d1a247cfbbf7d194055
