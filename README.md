@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/awachira/banshee.svg?branch=master)](https://travis-ci.org/awachira/banshee)
 [![Dependency Status](https://david-dm.org/awachira/banshee.svg)](https://david-dm.org/awachira/banshee)
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/awachira/banshee)
-
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/awachira/banshee.svg?columns=all)](https://waffle.io/awachira/banshee)
 ### Quick start
 **Make sure you have Node version >= 6.0 and NPM >= 3**
 > Clone/Download the repo then edit `app.component.ts` inside [`/src/app/app.component.ts`](/src/app/app.component.ts)
